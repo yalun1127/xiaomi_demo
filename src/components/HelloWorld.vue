@@ -90,6 +90,7 @@ export default {
     return {
       msg: '哈哈哈',
       msg1:"器器咕咕顺"
+      msg2:'呵呵呵'
     }
   }
 }
